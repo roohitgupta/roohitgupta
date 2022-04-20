@@ -10,11 +10,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@roohitgupta2](https://medium.com/@roohitgupta2)
 
-- 💬 Ask me about **JavaScript, Node.js, MongoDB, React**
+- 💬 Ask me about **Data Structures and Algorithms, JavaScript, Node.js, MongoDB, React**
 
 - 📫 How to reach me **roohigupta2@gmail.com**
 
-- ⚡ Fun fact **Our generation will never know why we are here.**
+- ⚡ Fun fact **Our generation will never know who put us here.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
