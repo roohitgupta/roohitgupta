@@ -1,7 +1,7 @@
-
+<img width="100%" height="400px" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
 
 <h1 align="center">Hi There👋, I'm Rohit Gupta</h1>
-<h3 align="center">A MERN Stack developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 - 🌱 I’m currently learning **React.js**
