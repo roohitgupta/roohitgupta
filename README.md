@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi There👋, I'm Rohit Gupta</h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<h1 align="center">Hi There👋</h1>
+<h3 align="center">I'm a passionate Full Stack Web Developer. Dedicated and accountable. Skilled in MERN stack.</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 Best of my projects are available at [www.roohitgupta.com](www.roohitgupta.com)
 
-- 📝 I regularly write articles on [roohitgupta2.medium.com](roohitgupta2.medium.com)
+- 📝 I regularly write articles on [https://roohitgupta2.medium.com/](roohitgupta2.medium.com)
 
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, Node.js, MongoDB, React**
 
