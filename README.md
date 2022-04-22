@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, Node.js, MongoDB, React**
 
-- 📫 How to reach me **roohigupta2@gmail.com**
+- 📫 How to reach me **roohigupta2@gmail.com**(roohitgupta2@gmail.com)
 
 - ⚡ Fun fact **Our generation will never know who put us here.**
 
