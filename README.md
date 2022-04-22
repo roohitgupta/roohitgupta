@@ -7,7 +7,7 @@
 
 - 👨‍💻 Best of my projects are available at [www.roohitgupta.com](www.roohitgupta.com)
 
-- 📝 I regularly write articles on [https://roohitgupta2.medium.com/](https://roohitgupta2.medium.com/)
+- 📝 I regularly write articles on [medium](https://roohitgupta2.medium.com/)
 
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, Node.js, MongoDB, React**
 
