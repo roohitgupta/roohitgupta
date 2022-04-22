@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There👋</h1>
+<h1 align="left">Hi There👋</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer. Dedicated and accountable. Skilled in MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
