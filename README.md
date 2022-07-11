@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Our generation will never know who put us here.**
 
-<!-- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="80"/> </a> -->
+<!-- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="85" height="70"/> </a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
