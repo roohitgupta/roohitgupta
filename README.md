@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 Best of my projects are available at [Portfolio](https://roohitgupta.netlify.app/)
+- 👨‍💻 Best of my projects are available at [Portfolio](https://roohit-gupta.netlify.app/)
 
 - 📝 I regularly write articles on [medium](https://roohitgupta2.medium.com/)
 
